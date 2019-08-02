@@ -2,7 +2,7 @@
 A text classifier by fine tuning on pre-trained BERT for Sarcasm Detection in News Headlines (PyTorch Implementation)
 
 ### Kaggle Notebook
-[Transfer Learning for Text Data In Pytorch (BERT)](https://www.kaggle.com/aaybeedee/transfer-learning-for-text-data-in-pytorch-bert?scriptVersionId=18174980)
+[Transfer Learning for Text Data In Pytorch (BERT)](https://www.kaggle.com/aaybeedee/transfer-learning-for-text-data-in-pytorch-bert)
 
 ### Dataset
 [News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection/)
